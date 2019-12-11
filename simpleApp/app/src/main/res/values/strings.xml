@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">simpleApp</string>
+    <string name="checkbox">com.example.contacts.checkbox</string>
+    <string name="name">com.example.contacts.name</string>
+    <string name="password">com.example.contacts.password</string>
+    <string name="remeber_me">Remeber me</string>
+</resources>
